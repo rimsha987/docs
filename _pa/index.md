@@ -36,6 +36,6 @@ udver: '2'
 
 ## Treebanks
 
-There are [1](../treebanks/pa-comparison.html) Punjabi UD treebanks:
+There are [2](../treebanks/pa-comparison.html) Punjabi UD treebanks:
 
   * [Punjabi-PunTB](../treebanks/pa_puntb/index.html)
